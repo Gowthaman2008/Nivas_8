@@ -3,17 +3,16 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/NivasMoviesOnlineAdda>𝗡𝗶𝘃𝗮𝘀</a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Gowthaman2008>𝙶𝙾𝚆𝚃𝙷𝙰𝙼𝙰𝙽</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚟3.0.0
 
-⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
+⚡ POWERED BY›› <a href=https://t.me/NMOAdda> NMOAdda</a></b>"""
 
     SOURCE_TXT = """
-<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
+<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/NivasMoviesOnlineAdda>Nivas⚡</a>
 
 📍𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽𝚈 𝙱𝙾𝚃
 📍𝚃𝙾 𝙱𝚄𝚈 𝚁𝙴𝙿𝙾
@@ -21,7 +20,7 @@ class script(object):
 📍𝙲𝙷𝙴𝙰𝙿 𝙿𝚁𝙸𝙲𝙴
 📍𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴
 
-⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a>
+⚡ POWERED BY›› <a href=https://t.me/NMOAdda> NMOAdda</a>
   </b>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
