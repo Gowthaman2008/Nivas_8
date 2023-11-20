@@ -529,7 +529,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' NMOAdda ', url='https://t.me/NMOAdda'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/Movies_Request_Group_Tamil_Hindi")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/New_Movies_Request_Groups")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
