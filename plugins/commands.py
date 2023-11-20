@@ -43,7 +43,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' NMOAdda ', url='https://t.me/NMOAdda'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/Movies_Request_Group_Tamil_Hindi")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/New_Movies_Request_Groups")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -52,7 +52,7 @@ async def start(client, message):
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAxkBAAIkz2U3O1OqaieOU_gPfylUOqHSbGu5AAJfAQAC5k-5VFd6fFm2UUXSHgQ")
+        m=await message.reply_sticker("CAACAgUAAxkBAAIygWVbeHk-dMpe7F6K_ODVEaoV7Xo5AALWAQACA7e4VDfxfKWiCdNBHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -73,7 +73,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' NMOAdda ', url='https://t.me/NMOAdda'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/Movies_Request_Group_Tamil_Hindi")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/New_Movies_Request_Groups")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -82,7 +82,7 @@ async def start(client, message):
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAxkBAAIkz2U3O1OqaieOU_gPfylUOqHSbGu5AAJfAQAC5k-5VFd6fFm2UUXSHgQ")
+        m=await message.reply_sticker("CAACAgUAAxkBAAIygWVbeHk-dMpe7F6K_ODVEaoV7Xo5AALWAQACA7e4VDfxfKWiCdNBHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
