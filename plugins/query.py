@@ -622,12 +622,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('🎭 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 🎭', url='https://t.me/NivasMoviesOnlineAdda')
+            InlineKeyboardButton('🎭 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 🎭', url='https://t.me/OurCommunitySupportBot')
             ],[
             InlineKeyboardButton('🍁 NMOAdda 🍁', url='https://t.me/NMOAdda')
             ],[
             InlineKeyboardButton('👩‍🦯 𝙱𝙰𝙲𝙺', callback_data='about'),
-            InlineKeyboardButton('⚡ 𝙳𝙾𝙽𝙰𝚃𝙴 ⚡', url='https://t.me/NivasMoviesOnlineAdda')
+            InlineKeyboardButton('⚡ 𝙳𝙾𝙽𝙰𝚃𝙴 ⚡', url='https://t.me/OurCommunitySupportBot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
