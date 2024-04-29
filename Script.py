@@ -12,7 +12,7 @@ class script(object):
 ⚡ POWERED BY›› <a href=https://t.me/NMOAdda> NMOAdda</a></b>"""
 
     SOURCE_TXT = """
-<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/NivasMoviesOnlineAdda>Nivas⚡</a>
+<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/OurCommunitySupportBot>Nivas⚡</a>
 
 📍𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽𝚈 𝙱𝙾𝚃
 📍𝚃𝙾 𝙱𝚄𝚈 𝚁𝙴𝙿𝙾
