@@ -43,7 +43,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' NMOAdda ', url='https://t.me/NMOAdda'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/New_Movies_Request_Groups")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/Movie_Request_Groups_Hd")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -73,7 +73,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' NMOAdda ', url='https://t.me/NMOAdda'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/New_Movies_Request_Groups")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/Movie_Request_Groups_Hd")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
